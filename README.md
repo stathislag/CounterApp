@@ -13,7 +13,7 @@
 - [Author](#author)
 
 ## Overview
-!(screenshot/App-screenshot.jpg)
+![](screenshot/App-screenshot.jpg)
 ### The challenge
 
 A StationMaster ask me to create a counter so he can count the passenger!
