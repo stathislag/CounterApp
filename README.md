@@ -33,7 +33,7 @@ A StationMaster ask me to create a counter so he can count the passenger!
 
 ### What I learned
 
-Some of my major learnings while working through this project. Was stracture my project in html,css and Javascrpt learn new properties around css, new consepts in javascript how to call function inside markup with onclick, about local scope and global scope.
+Some of my major learnings while working through this project. Was stracture my project in Html,Css and Javascript learn new properties around css, new consepts in Javascript how to call function inside markup with onclick, about local scope and global scope.
 
 ### Continued development
 
